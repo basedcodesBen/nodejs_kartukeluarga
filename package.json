@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_kartukeluarga",
+  "version": "1.0.0",
+  "description": "kartu keluarga in nodejs",
+  "main": "starter_file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benaya_2272013",
+  "license": "ISC"
+}
